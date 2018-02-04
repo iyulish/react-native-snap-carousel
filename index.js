@@ -77,11 +77,11 @@ export default class Carousel extends Component {
         /**
         * Global wrapper's style
         */
-        containerCustomStyle: ViewPropTypes.style,
+        //containerCustomStyle: ViewPropTypes.style,
         /**
         * Content container's style
         */
-        contentContainerCustomStyle: ViewPropTypes.style,
+        //contentContainerCustomStyle: ViewPropTypes.style,
         /**
         * If enabled, snapping will be triggered once
         * the ScrollView stops moving, not when the
